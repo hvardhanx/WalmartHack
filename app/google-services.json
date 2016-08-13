@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929172688969",
+    "firebase_url": "https://hospice-cf0d3.firebaseio.com",
+    "project_id": "hospice-cf0d3",
+    "storage_bucket": "hospice-cf0d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929172688969:android:ba305664d7d1683c",
+        "android_client_info": {
+          "package_name": "com.example.android.hospice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929172688969-3k6pspdnmcda928juu7ajisjetabmr90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.hospice",
+            "certificate_hash": "6F3E08DD1A00D0D1EADAACCFB006FEE8EADF72DA"
+          }
+        },
+        {
+          "client_id": "929172688969-o35s24v58vc6l6odphj241og7gb9ctil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NJHDaOoWtyrm-97NoumibOWYz7zfOdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929172688969-o35s24v58vc6l6odphj241og7gb9ctil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

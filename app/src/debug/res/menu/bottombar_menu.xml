@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_nav_store"
+        android:icon="@drawable/ic_medistore"
+        android:title="MediStore" />
+    <item
+        android:id="@+id/bottom_nav_health_status"
+        android:icon="@drawable/ic_health_status"
+        android:title="Run" />
+    <item
+        android:id="@+id/bottom_nav_community"
+        android:icon="@drawable/ic_community"
+        android:title="Society" />
+
+</menu>
